@@ -28,8 +28,11 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Text Setup
-Put the text for analysis in `test_text/text.txt`
+## Model and text Setup
+1. Put the text for analysis in `test_text/text.txt`
+2. Place the LLaMA model in the model_llama folder with the name `model-q8_0.gguf`
+
+LLaMA model (8 gb): https://huggingface.co/IlyaGusev/saiga_llama3_8b_gguf/blob/main/model-q8_0.gguf
 
 ## Running the Analysis
 Run the main script:
