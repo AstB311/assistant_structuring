@@ -1,0 +1,5 @@
+spacy
+titlecase
+pymorphy3
+llama-cpp-python
+huggingface_hub
