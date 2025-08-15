@@ -3,3 +3,4 @@ titlecase
 pymorphy3
 llama-cpp-python
 huggingface_hub
+https://github.com/explosion/spacy-models/releases/download/ru_core_news_lg-3.7.0/ru_core_news_lg-3.7.0-py3-none-any.whl
